@@ -4,7 +4,7 @@
 * [Generativity](#generativity)
 * [Buddhism $ monasteries](#Buddhism-$-monasteries)
 * [Comparison in Delhi & Sikkim in air pollution](#Comparison-in-Delhi-&-Sikkim-in-air-pollution)
-* [Improvement Of Policies Using End To End Reinforcement Learning In Deep Q-network PPT](#Improvement-Of-Policies-Using-End-To-End-Reinforcement-Learning-In-Deep-Q-network-PPT)
+* [Improvement Of Policies Using End To End Reinforcement Learning In Deep Q-network](#Improvement-Of-Policies-Using-End-To-End-Reinforcement-Learning-In-Deep-Q-network-PPT)
 * [Presentation1](#presentation1)
 * [Strassen_Matrix](#strassen_Matrix)
 * [Wells Fargo Misconduct](#Wells-Fargo-Misconduct)
